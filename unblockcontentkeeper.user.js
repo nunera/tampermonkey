@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Unblocks blocked websites
 // @author       You
-// @match        https://ckf05.aisd.net/*
+// @match        https://*.aisd.net/cgi-bin/*
 // @icon         https://ckf05.aisd.net/favicon.ico
 // @grant        none
 // ==/UserScript==
