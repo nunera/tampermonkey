@@ -15,6 +15,6 @@
     var url = document.getElementById("URL").innerText;
     url = url.replace("https://","");
     url = url.replace("http://","");
-    window.location.href = "https://incognito-production-080a.up.railway.app/load.html#" + btoa(url);
+    window.location.href = "https://magnificent-crow-jeans.cyclic.app/load#" +url;
     },1000);
 })();
