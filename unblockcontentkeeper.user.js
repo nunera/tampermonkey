@@ -15,6 +15,6 @@
     var url = document.getElementById("URL").innerText;
     url = url.replace("https://","");
     url = url.replace("http://","");
-    window.location.href = "https://web-production-263b.up.railway.app/load.html#" +url;
+    window.location.href = "https://cognito.pages.dev/load.html#" +url;
     },1000);
 })();
