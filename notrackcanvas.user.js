@@ -4,8 +4,8 @@
 // @version      0.2
 // @description  Blocks all the trackers on canvas that notify an instructor when a tab is switched. I am not responsible for any damages or incidents that occur due to this script.
 // @author       You
-// @match        https://*.instructure.com/*
-// @match        http://*.instructure.com/*
+// @match        *://*/*
+// @match        *://*/*
 // @icon         https://arlington.instructure.com/favicon.ico
 // @grant        none
 // ==/UserScript==
